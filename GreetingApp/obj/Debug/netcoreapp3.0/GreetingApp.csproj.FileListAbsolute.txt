@@ -1,0 +1,11 @@
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp.deps.json
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp.runtimeconfig.json
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp.runtimeconfig.dev.json
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp.dll
+/Users/adambyrne/Code/GreetingApp/GreetingApp/bin/Debug/netcoreapp3.0/GreetingApp.pdb
+/Users/adambyrne/Code/GreetingApp/GreetingApp/obj/Debug/netcoreapp3.0/GreetingApp.csprojAssemblyReference.cache
+/Users/adambyrne/Code/GreetingApp/GreetingApp/obj/Debug/netcoreapp3.0/GreetingApp.AssemblyInfoInputs.cache
+/Users/adambyrne/Code/GreetingApp/GreetingApp/obj/Debug/netcoreapp3.0/GreetingApp.AssemblyInfo.cs
+/Users/adambyrne/Code/GreetingApp/GreetingApp/obj/Debug/netcoreapp3.0/GreetingApp.dll
+/Users/adambyrne/Code/GreetingApp/GreetingApp/obj/Debug/netcoreapp3.0/GreetingApp.pdb

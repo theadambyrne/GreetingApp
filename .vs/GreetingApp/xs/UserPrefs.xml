@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CD99A83B-7DB5-4BAF-8712-93BD6FF5E21C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Program.cs">
+    <Files>
+      <File FileName="GreetingApp/Program.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GreetingApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
